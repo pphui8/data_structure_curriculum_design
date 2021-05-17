@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<map>
+    <vexs>
+        <name>东巴宫</name>
+        <name>大石桥</name>
+        <name>丽江古城</name>
+        <name>万古楼</name>
+    </vexs>
+    <edges>
+        <edge>
+            <start>0</start>
+            <end>1</end>
+            <weight>1</weight>
+        </edge>
+        <edge>
+            <start>1</start>
+            <end>2</end>
+            <weight>6</weight>
+        </edge>
+        <edge>
+            <start>2</start>
+            <end>3</end>
+            <weight>4</weight>
+        </edge>
+        <edge>
+            <start>0</start>
+            <end>3</end>
+            <weight>2</weight>
+        </edge>
+        <edge>
+            <start>3</start>
+            <end>1</end>
+            <weight>5</weight>
+        </edge>
+    </edges>
+</map>
